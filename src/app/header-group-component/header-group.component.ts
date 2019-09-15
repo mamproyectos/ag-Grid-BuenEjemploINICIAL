@@ -19,8 +19,8 @@ export class HeaderGroupComponent implements IHeaderGroupAngularComp {
         console.log(`Destroying HeaderComponent`);
     }
 
-
     expandOrCollapse() {
+        console.log('Expandir o contraer' + this.params.setExpanded);
         this.params.setExpanded(!this.expanded);
     };
 
