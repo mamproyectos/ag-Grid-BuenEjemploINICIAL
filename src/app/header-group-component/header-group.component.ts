@@ -1,6 +1,6 @@
-import {Component} from "@angular/core";
-import {IHeaderGroupParams} from "ag-grid-community/main";
-import {IHeaderGroupAngularComp} from "ag-grid-angular/main";
+import {Component} from '@angular/core';
+import {IHeaderGroupParams} from 'ag-grid-community/main';
+import {IHeaderGroupAngularComp} from 'ag-grid-angular/main';
 
 @Component({
     templateUrl: 'header-group.component.html',
