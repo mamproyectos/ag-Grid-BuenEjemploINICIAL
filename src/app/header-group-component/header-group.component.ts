@@ -1,5 +1,5 @@
 import {Component} from "@angular/core";
-import {IHeaderGroupParams} from "ag-grid/main";
+import {IHeaderGroupParams} from "ag-grid-community/main";
 import {IHeaderGroupAngularComp} from "ag-grid-angular/main";
 
 @Component({

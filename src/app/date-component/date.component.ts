@@ -1,5 +1,5 @@
 import {Component} from "@angular/core";
-import {IDateParams} from "ag-grid/main";
+import {IDateParams} from "ag-grid-community/main";
 import {IDateAngularComp} from "ag-grid-angular/main";
 
 
